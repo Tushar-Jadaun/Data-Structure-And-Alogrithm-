@@ -1,12 +1,10 @@
+// practice of vector array create
 #include<iostream>
 #include<vector>
 using namespace std;
 int main()
 {
-    // vector<int>arr;
-    // cout<<arr.size()<<endl;
-    // cout<<arr.capacity()<<endl;
-
+  
     int num;
     cout<<"enter the number : ";
     cin>>num;
